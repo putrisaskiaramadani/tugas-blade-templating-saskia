@@ -95,7 +95,7 @@
                     <div class="col-md-6 ml-auto mr-auto text-center">
                       <h4 class="card-title">
                         Notifications Places
-                        <p class="category">Click to view notifications</p>
+                        <p class="category">Click to view notifications</p> 
                       </h4>
                     </div>
                   </div>
